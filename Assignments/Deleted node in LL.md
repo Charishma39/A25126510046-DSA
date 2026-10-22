@@ -51,3 +51,5 @@ int main() {
     printf("\n");
     return 0;
 }
+
+<img width="202" height="54" alt="Screenshot 2026-10-22 at 11 34 50 PM" src="https://github.com/user-attachments/assets/a6d033d1-9efa-439c-928e-7da0ef74300b" />
