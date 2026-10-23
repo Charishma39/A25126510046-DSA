@@ -43,3 +43,5 @@ int main()
 
     return 0;
 }
+
+<img width="279" height="166" alt="Screenshot 2026-10-22 at 9 12 37 PM" src="https://github.com/user-attachments/assets/2edbd994-addd-4cd5-9bf1-ad997c7253ab" />
