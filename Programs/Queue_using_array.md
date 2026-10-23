@@ -108,3 +108,6 @@ int main()
 
     return 0;
 }
+<img width="272" height="448" alt="Screenshot 2026-10-22 at 9 19 12 PM" src="https://github.com/user-attachments/assets/a9e6ba1d-32dc-4a91-b369-055350b6b65e" />
+<img width="258" height="304" alt="Screenshot 2026-10-22 at 9 19 19 PM" src="https://github.com/user-attachments/assets/1817f3d5-d33f-4cf2-92ad-ef5109140e96" />
+
