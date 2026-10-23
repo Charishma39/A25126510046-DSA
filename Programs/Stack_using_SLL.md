@@ -122,3 +122,6 @@ int main()
 
     return 0;
 }
+<img width="196" height="494" alt="Screenshot 2026-10-22 at 9 25 31 PM" src="https://github.com/user-attachments/assets/ac98e2c2-3152-487d-a718-6ba7d6476ec9" />
+<img width="160" height="273" alt="Screenshot 2026-10-22 at 9 25 39 PM" src="https://github.com/user-attachments/assets/c2dc1eea-c940-4c5c-b6e8-f821d350ca0a" />
+
